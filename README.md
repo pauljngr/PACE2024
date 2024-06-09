@@ -20,4 +20,5 @@ make
 ### Example usage
 ```bash
 cat tiny_test_set/website_20.gr | ./oscm
+# The solution will be printed to stdout
 ```
