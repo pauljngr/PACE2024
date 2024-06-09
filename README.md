@@ -16,3 +16,8 @@ June 9th, 2024
 cmake .
 make
 ```
+
+### Example usage
+```bash
+cat tiny_test_set/website_20.gr | ./oscm
+```
