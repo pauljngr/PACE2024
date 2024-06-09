@@ -10,3 +10,9 @@ June 9th, 2024
 **Requirements:**
 - Cbc Version 2.10.7
 - CMake (we used version 3.22.1)
+
+### To build the project, just run
+```bash
+cmake .
+make
+```
