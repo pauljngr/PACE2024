@@ -1,7 +1,7 @@
 ## Our submission to the PACE 2024 Challenge to the Exact Track and the Parameterized Track
 ### Optil username: *mppeg*
 
-Michael Jünger, Paul Jünger, Petra Mutzel, Gerhart Reinelt
+Michael Jünger, Paul Jünger, Petra Mutzel, Gerhard Reinelt
 
 June 9th, 2024
 
