@@ -22,3 +22,5 @@ make
 cat tiny_test_set/website_20.gr | ./oscm
 # The solution will be printed to stdout
 ```
+
+### Zenodo: https://zenodo.org/records/11546972
