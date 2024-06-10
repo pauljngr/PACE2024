@@ -2215,6 +2215,8 @@ int bac()
     cval      = (double *) malloc( wnvar * sizeof(double));
     
     separatemoebius = false;
+    numRootSmallObjChange = 0;
+    lastRootLowerbound  = 10e9;
 
     if (pril>1) {
         printf("\nSetting up cbc...\n\n");
