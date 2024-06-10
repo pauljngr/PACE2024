@@ -1,6 +1,18 @@
 //
 // Utility functions for using Cbc api
 //
+
+// This program is our contribution to the PACE 2024 challenge.
+
+// License: GNU General Public License v3.0
+
+// Bonn, Cologne, Heidelberg, June 9, 2024
+//
+// Michael Juenger (University of Cologne)
+// Paul Juenger (University of Bonn)
+// Petra Mutzel (Unibersity of Bonn)
+// Gerhard Reinelt (University of Heidelberg)
+
 #include "CbcInterface.hpp"
 
 #include <math.h>
