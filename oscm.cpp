@@ -306,7 +306,7 @@ int lopheu();
 
 int lopheu()
 {
-    if (dofixing || numcomponents > 1 || wnvar < 10)
+    if (dofixing || numcomponents > 1 || wnvar < 10 || nnod != numbottomnodes)
         return 0;
     int OscmVal;
     int NonZeros;
