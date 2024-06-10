@@ -1,11 +1,11 @@
-## Our submission to the PACE 2024 Challenge to the |exact Track and the Parameterized Track
+## Our submission to the PACE 2024 Challenge to the Exact Track and the Parameterized Track
 ### Optil username: *mppeg*
 
 Michael Jünger, Paul Jünger, Petra Mutzel, Gerhard Reinelt
 
 June 9th, 2024
 
-### |exact solver based on branch-and-cut
+### Exact solver based on branch-and-cut
 
 **Requirements:**
 - Cbc Version 2.10.7
