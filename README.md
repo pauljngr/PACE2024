@@ -24,7 +24,7 @@ cat tiny_test_set/website_20.gr | ./oscm
 ```
 
 ### Our results on the exact-public testset
-The solver obtains optimal solutions to 99 of 100 instances in the required timelimit of 30 minutes.\
+The solver obtains provably optimal solutions to 99 of 100 instances in the required timelimit of 30 minutes.\
 Tested on one thread of the _Intel Xeon "Sapphire Rapids" 48-core/96-threat 2.10GHz_ processor
 |Instance | #Crossings|Time|
 |---------|--------|---|
