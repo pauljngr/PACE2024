@@ -261,4 +261,4 @@ Tested on one thread of the _Intel Xeon "Sapphire Rapids" 48-core/96-threat 2.10
 |cutwidth-public/123.gr |371626| 0m 2s|
 |cutwidth-public/124.gr |53999| 0m 0s|
 |cutwidth-public/125.gr |267162| 0m 1s|
-total: 0m 20s
+total|| 0m 20s
