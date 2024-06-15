@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jünger"
+  given-names: "Michael"
+  orcid: "https://orcid.org/0000-0002-6480-2614"
+- family-names: "Jünger"
+  given-names: "Paul"
+  orcid: "https://orcid.org/0009-0008-4165-4453"
+- family-names: "Mutzel"
+  given-names: "Petra"
+  orcid: "https://orcid.org/0000-0001-7621-971X"
+- family-names: "Reinelt"
+  given-names: "Gerhard"
+  orcid: "https://orcid.org/0000-0002-7193-501X"
+title: "OSCM"
+version: 1.2
+doi: 10.5281/zenodo.11546972
+date-released: 2024-06-15
+url: "https://github.com/pauljngr/PACE2024"
