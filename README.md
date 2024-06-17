@@ -6,6 +6,7 @@ Michael Jünger, Paul Jünger, Petra Mutzel, Gerhard Reinelt
 June 9th, 2024
 
 ### Exact solver based on branch-and-cut
+You can find our solver description [here](mppegsolverdescription.pdf).
 
 **Requirements:**
 - Cbc Version 2.10.7
