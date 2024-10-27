@@ -1,4 +1,6 @@
 ## Our submission to the PACE 2024 Challenge to the Exact Track and the Parameterized Track
+*Note: Currently the code is pretty messy, but I'm working on cleaning it up.*
+
 ### Optil username: *mppeg*
 
 Michael Jünger, Paul Jünger, Petra Mutzel, Gerhard Reinelt
